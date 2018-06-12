@@ -1,6 +1,6 @@
 #include "mex.h"
 #include <cmath>
-#include "blas.h"
+//#include "blas.h"
 #include <stdio.h>
 #include <string.h>
 //#include <matrix.h>
